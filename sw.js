@@ -4,7 +4,7 @@
 const CACHE_NAME = 'handball-arbitro-v1';
 const ASSETS = [
   './',
-  './handball_artigos_completos.html',
+  './index.html',
   './manifest.json'
 ];
 
